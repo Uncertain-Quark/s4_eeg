@@ -10,9 +10,9 @@ Find the pre-trained model checkpoints at this [link](https://drive.google.com/d
 
 ## Datasets
 ### Pretrained Dataset
-(TUEG Dataset)[https://isip.piconepress.com/projects/tuh_eeg/] has been used for pre-training. The pre-processing pipeline is as mentioned in the paper.
+[TUEG Dataset](https://isip.piconepress.com/projects/tuh_eeg/) has been used for pre-training. The pre-processing pipeline is as mentioned in the paper.
 ### Fine-tuning Datasets
-- (MMI Physionet)[https://www.physionet.org/content/eegmmidb/1.0.0/]
-- (BCI IV 2A)[https://www.bbci.de/competition/iv/]
+- [MMI Physionet](https://www.physionet.org/content/eegmmidb/1.0.0/)
+- [BCI IV 2A](https://www.bbci.de/competition/iv/)
 ## Acknowledgements
-Parts of the code (S4 implementation) is taken from [link](https://github.com/state-spaces/s4)
+Parts of the code (S4 implementation) are taken from [link](https://github.com/state-spaces/s4)
